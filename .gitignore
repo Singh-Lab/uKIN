@@ -1,0 +1,22 @@
+# ignore OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ignore compiled files
+*.class
+*.pyc
+*.pyo
+*.aux
+*.fls
+*.out
+*.log
+*.blg
+*.bbl
+*~
+*.synctex.gz
